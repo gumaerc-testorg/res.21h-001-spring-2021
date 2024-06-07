@@ -1,5 +1,5 @@
 leftnav:
-- identifier: external-964b2054369c43f59fa9c15d69698a36
+- identifier: d23c4a77-2c4a-4089-9acb-37a3935303b7
   name: Online Publication
-  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+VTx+1T2019/about
+  pageRef: /external-resources/online-publication_d23c4a77-2c4a-4089-9acb-37a3935303b7
   weight: 1000
